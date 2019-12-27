@@ -1,4 +1,4 @@
-# dash-template
+# dash-template 1
 
 - [First time](#first-time)
   - [Requirements](#requirements)
